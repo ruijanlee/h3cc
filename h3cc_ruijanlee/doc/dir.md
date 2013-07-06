@@ -57,7 +57,7 @@ H3c connect  - 强力插入你的校园网 - @RuiJanLee
 -----
 - 8.1 网上常见的方法
 - 8.2 共享网络的原理与实战
-- 8.4 无线网络的原理
+- 8.3 无线网络的原理与实战
 - 8.4 厂商提供的共享网络方案
 
 9.[后记](https://github.com/ruijanlee/h3cc/blob/master/h3cc_ruijanlee/doc/c9.md)

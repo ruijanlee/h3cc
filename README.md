@@ -64,4 +64,11 @@ H3c connect  - 强力插入你的校园网 - @RuiJanLee
 联系邮箱：ruijanleeh3cc@gmail.com  
 
 欢迎疑问、建议、交流、指教。 
+
+----------
+
+##License
+GPLv3  
+http://www.gnu.org/licenses/gpl-3.0.html
+
 # [进入目录](https://github.com/ruijanlee/h3cc/blob/master/h3cc_ruijanlee/doc/dir.md)

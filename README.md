@@ -68,6 +68,7 @@ H3c connect  - 强力插入你的校园网 - @RuiJanLee
 ----------
 
 ##License
+Copyright (C) 2013, by RuiJanLee  
 GPLv3  
 http://www.gnu.org/licenses/gpl-3.0.html
 

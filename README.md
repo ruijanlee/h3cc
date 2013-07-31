@@ -3,7 +3,6 @@ H3Cc
 
 H3c connect  - 强力插入你的校园网 - @RuiJanLee
 
------
 
 ##看完能做什么
 ###1.配置1个可以用校园网和校园宽带的无线路由器：
@@ -54,7 +53,7 @@ H3c connect  - 强力插入你的校园网 - @RuiJanLee
 那个请你们继续找同学帮你们弄路由器，  
 或者花钱买一个直接弄好了的路由器。
 
-----------
+
 
 ##关于
 
@@ -65,11 +64,6 @@ H3c connect  - 强力插入你的校园网 - @RuiJanLee
 
 欢迎疑问、建议、交流、指教。 
 
-----------
-
-##License
 Copyright (C) 2013, by RuiJanLee  
-GPLv3  
-http://www.gnu.org/licenses/gpl-3.0.html
 
 # [进入目录](https://github.com/ruijanlee/h3cc/blob/master/h3cc_ruijanlee/doc/dir.md)
